@@ -1,3 +1,5 @@
 # Welcome to disco!
 
-Please refer to [the documentation site](https://docs.letsdisco.dev/) to get started.
+disco lets you easily deploy web backend projects to your own servers
+
+[See the documentation site](https://docs.letsdisco.dev/) to get started.
