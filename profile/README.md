@@ -1,4 +1,4 @@
-# Welcome to disco!
+# welcome!
 
 disco lets you easily deploy web backend projects to your own servers
 
