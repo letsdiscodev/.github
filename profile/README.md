@@ -2,4 +2,4 @@
 
 disco lets you easily deploy web backend projects to your own servers
 
-[get started ->](https://docs.letsdisco.dev/)
+[head to the docs to get started](https://docs.letsdisco.dev/)
